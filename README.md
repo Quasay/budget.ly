@@ -7,7 +7,7 @@
 ## Table of Contents (Excluding Images):
 ## System Architecture 
 
-![Screenshot](https://github.com/Quasay/budget.ly/blob/master/System Architecture.PNG?raw=true)
+![Screenshot](https://github.com/Quasay/budget.ly/blob/master/System_Architecture.PNG?raw=true)
 
 
 ## How to Use
